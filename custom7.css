@@ -37,7 +37,7 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, calc(-50% + 10px)) !important;
+  transform: translate(-50%, calc(-50% + 100px)) !important;
 }
 
 .main-date span:before{
@@ -124,7 +124,7 @@
     zoom: 50%;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, calc(-50% + 10px)) !important;
+    transform: translate(-50%, calc(-50% + 100px)) !important;
   }
 
   .main-text3 {
